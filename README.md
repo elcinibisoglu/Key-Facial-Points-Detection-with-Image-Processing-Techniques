@@ -1,0 +1,2 @@
+# Key-Facial-Points-Detection-with-Image-Processing-Techniques
+Key Facial Points [1] dataset is used to detect key points on faces. A CNN algorithm is created for this project. Train and validation losses are obtained and RMSE evaluation metric is utilized. The results show that the smallest RMSE is obtained with the predictions of the points on eyes. The largest RMSE is observed in the case of the mouth. 
